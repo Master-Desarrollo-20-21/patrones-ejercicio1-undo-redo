@@ -1,3 +1,14 @@
+# Práctica 1 - Curso de Patrones de Diseño
+# Undo / Redo
+
+Realizar el juego del Mastermind con la funcionalidad de Undo / Redo.
+
+Esta práctica se debe realizar siguiendo la analogía del juego de TicTacToe, en la versión Undo / Redo que hemos visto en la clase 9 del [curso de Patrones de Diseño](https://escuela.it/cursos/patrones) de EscuelaIT.
+
+Para la realización de la práctica vamos a partir de una base de código que se encuentra en este mismo repositorio. Este es el código del Mastermind con la técnica del doble despacho, sobre el que agregaremos los patrones y funcionalidad necesaria para construir el Undo / Redo con un diseño correcto.
+
+A continuación se puede ver el README que había en el repositorio original, de USantaTecla, que se ha copiado en este repositorio para la práctica.
+
 <h1 align="center">Welcome to Master Mind. Solución 4.2. ** dv.+doubleDispathing **
  👋</h1>
 <p>
