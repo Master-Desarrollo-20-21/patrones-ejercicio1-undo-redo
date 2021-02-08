@@ -7,7 +7,9 @@ Esta práctica se debe realizar siguiendo la analogía del juego de TicTacToe, e
 
 Para la realización de la práctica vamos a partir de una base de código que se encuentra en este mismo repositorio. Este es el código del Mastermind con la técnica del doble despacho, sobre el que agregaremos los patrones y funcionalidad necesaria para construir el Undo / Redo con un diseño correcto.
 
-A continuación se puede ver el README que había en el repositorio original, de USantaTecla, que se ha copiado en este repositorio para la práctica.
+Recuerda que los requisitos y otras informaciones relativas al juego de Mastermind los hemos visto en los cursos anteriores (Curso de diseño y anteriores). Los [requisitos de esta versión se pueden ver en este enlace](https://github.com/USantaTecla-project-mastermind/requirements/tree/master/3.UndoRedo).
+
+A continuación encuentras el README que había en el repositorio original, de USantaTecla, que se ha copiado en este repositorio para la práctica.
 
 <h1 align="center">Welcome to Master Mind. Solución 4.2. ** dv.+doubleDispathing **
  👋</h1>
